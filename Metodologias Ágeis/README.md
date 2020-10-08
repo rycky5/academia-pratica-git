@@ -13,19 +13,18 @@ Repositório com os projetos desenvolvidos na academia prática de desenvolvimen
 Dar fork neste repositório, criar uma branch. Dentro de sua branch criar uma pasta com o seu nome, nesta pasta deve ter um arquivo de texto com a resolução do exercício final. Enviar o conteúdo por Pull Request.
 
 ### Entrega:
-- [ ] __Adrielly__
+- [X] __Adrielly__
 - [ ] __Affonso__
-- [ ] __Arthur__
 - [ ] __Breno__
-- [ ] __Gilberto__
-- [ ] __Isabelle__
-- [x] __João Victor__
-- [ ] __Júlia__
+- [X] __Gilberto__
+- [X] __Isabelle__
+- [X] __João Victor__
+- [X] __Júlia__
 - [ ] __Oscar__
-- [ ] __Pablo__
-- [ ] __Paulo__
-- [ ] __Pedro Crispim__
+- [X] __Pablo__
+- [X] __Paulo__
+- [X] __Pedro Crispim__
 - [ ] __Pedro Silva__
-- [ ] __Thalys__
+- [X] __Thalys__
 - [ ] __Vinicius__
 
